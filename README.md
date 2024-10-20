@@ -42,4 +42,4 @@ python main.py
 4.	The script will display time series plots for confirmed cases, deaths, and recoveries for each country in the dataset.
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
